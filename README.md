@@ -6,7 +6,7 @@ I have 3+ years of experience in IT systems support and currently focus on Data 
 
 In my current role, I work with SQL and PostgreSQL for data analysis and troubleshooting, support ETL processes built with Informatica, and use Python for data processing and technical diagnostics.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Data & Development**
 - SQL
@@ -24,7 +24,7 @@ In my current role, I work with SQL and PostgreSQL for data analysis and trouble
 - Zabbix
 - Sentry
 
-## 🚀 Projects
+## Projects
 
 ### [SWAPI Data Pipeline](https://github.com/Wonskell/SWAPI-Data-Pipeline)
 
@@ -45,7 +45,7 @@ Learning project using ASP.NET Core Minimal API and PostgreSQL.
 - ASP.NET Core
 - C#
 
-## 📚 Currently Learning
+## Currently Learning
 
 Currently studying **Data Engineering at Yandex Practicum**.
 
@@ -61,6 +61,6 @@ Upcoming topics:
 - PySpark
 - Apache Kafka
 
-## 🎯 Career Focus
+## Career Focus
 
 Interested in **Data Engineer / Junior Data Engineer / ETL Developer** roles and projects related to data pipelines, ETL processes, SQL and data processing.
